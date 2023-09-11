@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "С#project", "С#project.csproj", "{A8DCFB04-FD13-4C01-AF07-0E70DBB918EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2.7", "Task 2.7.csproj", "{A8DCFB04-FD13-4C01-AF07-0E70DBB918EB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.4", "..\Task1\Task1.4.csproj", "{E18887CB-2B14-4BFD-B96D-6BD8556D8C6C}"
 EndProject
