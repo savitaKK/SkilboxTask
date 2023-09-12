@@ -26,7 +26,8 @@ namespace С_project
             //и рассчитайте среднее арифметическое значение.
 
             int lessonCount = 3;
-            double averageArfimetic = (programmingScores + mathScores + physicsScores) / lessonCount;
+            double summScores = programmingScores + mathScores + physicsScores;
+            double averageArfimetic = summScores / lessonCount;
             Console.WriteLine("Среднее Арифметическое значение баллов = "+averageArfimetic);
         }
     }
